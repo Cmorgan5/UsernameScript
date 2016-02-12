@@ -1,4 +1,5 @@
 #!/bin/sh
+# My username script
 
 echo "Enter your username:"
 read username
